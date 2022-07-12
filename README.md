@@ -6,7 +6,7 @@ In this project I will showcase the skills I've learned so far based on a design
 
 The gif in the header (./img/Anas_platyrhynchos_cleaning.gif) by Wikipedia user Amanda444  can be found in https://en.wikipedia.org/wiki/File:Anas_platyrhynchos_cleaning.gif, the license can be found in https://creativecommons.org/licenses/by-sa/3.0/deed.en, no changes were made.
 
-The image of the grey avian species, (.Cacomantis_flabelliformis_square.jpg) by JJ Harrison (https://www.jjharrison.com.au/) can be found in https://en.wikipedia.org/wiki/File:Cacomantis_flabelliformis.jpg, the license can be found in https://creativecommons.org/licenses/by-sa/3.0/deed.en, the image was cropped to fit in a 1:1 ratio.
+The image of the grey avian species, (./img/Cacomantis_flabelliformis_square.jpg) by JJ Harrison (https://www.jjharrison.com.au/) can be found in https://en.wikipedia.org/wiki/File:Cacomantis_flabelliformis.jpg, the license can be found in https://creativecommons.org/licenses/by-sa/3.0/deed.en, the image was cropped to fit in a 1:1 ratio.
 
 The image of the two parrots, (./img/Schläfrige_Gelbbrustaras_(sleepy_Blue-and-yellow_Macaws)_Weltvogelpark_Walsrode_2010_square.jpg) by Wikipedia user Olaf Oliviero Riemer can be found in https://commons.wikimedia.org/wiki/File:Schl%C3%A4frige_Gelbbrustaras_(sleepy_Blue-and-yellow_Macaws)_Weltvogelpark_Walsrode_2010.jpg, the license can be found in https://creativecommons.org/licenses/by-sa/3.0/deed.en, the image was cropped to fit in a 1:1 ratio.
 
