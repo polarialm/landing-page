@@ -26,3 +26,13 @@ body {
     font-size: 24px;
     color: #F9FAF8;
 }
+
+.hero-button {
+    background-color: #3882F6;
+    border: transparent;
+    border-radius: 6px;
+    font-size: 18px;
+    font-weight:500;
+    color: white;
+    padding: 8px 32px 8px 32px;
+}
