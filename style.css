@@ -4,6 +4,7 @@ body {
     padding: 0;
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
 }
 
 .hero {
@@ -72,20 +73,36 @@ body {
 
 .info-section {
     color: grey;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-content: center;
 }
 
 .info-header {
     color: #1F2937;
     font-size: 36px;
     font-weight: 900;
+    align-self: center;
+    padding: 25px 0px 25px 0px;
 }
 
+.info-box {
+    display: flex;
+    column-gap: 50px;
+    padding-bottom: 100px;
+    flex-wrap: wrap;
+}
 .info-pic {
     border: 4px solid #3882F6;
     border-radius: 10px;
     padding:0;
     height: 200px;
     width: auto;
+}
+
+.info-section p {
+    width: 200px;
 }
 
 .quote-section {
