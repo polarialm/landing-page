@@ -69,6 +69,7 @@ body {
     padding: 8px 32px 8px 32px;
     display: flex;
     align-self: start;
+    cursor: pointer;
 }
 
 .info-section {
@@ -113,6 +114,9 @@ body {
     font-weight: lighter;
     padding: 100px 200px 100px 200px;
     margin-bottom: 100px; /*There probably is a better way to do this*/
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
 }
 
 .quoted {
@@ -126,7 +130,11 @@ body {
     background: #3882F6;
     padding: 50px 100px 50px 100px;
     color: white;
-    margin-bottom: 100px;
+    margin: 0px 50px 100px 50px;
+/*     margin-bottom: 100px; */
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .call-to-action h3, .call-to-action p {
@@ -140,6 +148,7 @@ body {
     background-color: #3882F6;
     border: 2px solid white;
     border-radius: 6px;
+    cursor: pointer;
 }
 
 .footer {
@@ -148,4 +157,6 @@ body {
     font-size: 18px;
     font-weight: normal;
     padding: 25px 0px 25px 0px;
+    display: flex;
+    justify-content: center;
 }
